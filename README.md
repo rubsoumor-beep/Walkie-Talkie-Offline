@@ -1,4 +1,4 @@
-#Walkie-Talkie Offline
+# Walkie-Talkie Offline
 
 Aplicativo de comunicação de voz local desenvolvido em Python,
 com transmissão de áudio em tempo real através de UDP.
@@ -12,7 +12,7 @@ com transmissão de áudio em tempo real através de UDP.
 - 16 kHz
 - Mono
 - Interface KivyMD
-- Compatibilidade planejada com Android
+- Comunicação em tempo real entre dispositivos na mesma rede
 
 ## Arquitetura
 
@@ -37,4 +37,3 @@ Alto-falante
 - KivyMD
 - NumPy
 - UDP
-- Buildozer
