@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Build Android
+.buildozer/
+bin/
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Segredos
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
